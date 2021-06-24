@@ -1,0 +1,19 @@
+{
+  "name": "trackerjs",
+  "version": "0.0.1",
+  "description": "A snippet to keep track of a web visitor across different domains",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tracking",
+    "analytics",
+    "cookie"
+  ],
+  "author": "Andreas Ntrouflias <antrouflias@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lib-hub/trackerjs"
+  },
+  "license": "MIT"
+}
